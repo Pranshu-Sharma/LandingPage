@@ -1,0 +1,16 @@
+h1{
+  color: white;
+  text-align: center;
+}
+
+h3{
+  color: white;
+  text-align: center;
+}
+
+body{
+  background-color: #000D35;
+  border-right: 100px solid #09BC8A;
+  border-left: 100px solid #09BC8A;
+  border-bottom: 100px solid #09BC8A;
+}

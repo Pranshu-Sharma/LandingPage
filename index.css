@@ -1,0 +1,39 @@
+h1{
+  font-family: 'Lobster', cursive;
+}
+
+h2{
+  font-family: 'Lobster', cursive;
+}
+
+h3{
+  font-family: 'Lobster', cursive;
+}
+
+p{
+  font-family: 'Courgette', cursive;
+}
+
+form{
+  font-family: 'Courgette', cursive;
+}
+
+#submit{
+  font-size: 20px;
+  border-radius: 15px 15px 15px 15px;
+  color: white;
+  padding: 20px 20px 20px 20px;
+  background-color: #004346;
+  font-family: 'Lobster', cursive;
+}
+
+body{
+  padding: 30px 250px 50px 250px;
+  color: white;
+  text-align: center;
+  background-color: #000D35;
+  border-right: 100px solid #09BC8A;
+  border-left: 100px solid #09BC8A;
+  border-bottom: 100px solid #09BC8A;
+  margin: 0px;
+}
